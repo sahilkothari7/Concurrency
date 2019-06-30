@@ -1,0 +1,11 @@
+Reliance,10
+SME,200
+Mahindra,30
+Tata,10
+Sony,45
+Airtel,300
+Vodafone,67
+Wolkwogan,78
+Force,75
+AshokLeyland,100
+Jio,400
